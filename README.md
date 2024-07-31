@@ -2,7 +2,7 @@
 <p align="center">I´m a frontend developer passionate about design and user interaction</p>
 <img align="center" src="https://i.pinimg.com/originals/08/d1/98/08d1980c243267cde841f669fad70b99.png"/>
 
-👋 Hi, I’m @Santiago3102<br>
+## 💫 About Me
 - 👀 I’m interested in fullstack development, artificial intelligence, and innovative technology solutions.<br>
 - 🌱 I’m currently learning advanced web development techniques and exploring the integration of AI in everyday applications.<br>
 - 💞️ I’m looking to collaborate on open-source projects, web development, and any exciting AI-driven initiatives.<br>
