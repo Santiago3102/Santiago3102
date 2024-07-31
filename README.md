@@ -1,8 +1,6 @@
-# 💫 Hi, I’m Santiago Gomez 
-
-I’m a frontend developer passionate about design and user interaction
-
-![Banner Image](https://i.pinimg.com/originals/2f/10/ce/2f10ce69b96c0611989308b0abc68e70.gif)
+<h1 align="center">Hi, I’m Santiago Gomez 👋</h1>
+<p align="center">I´m a frontend developer passionate about design and user interaction</p>
+<img align="center" src="https://i.pinimg.com/originals/08/d1/98/08d1980c243267cde841f669fad70b99.png"/>
 
 👋 Hi, I’m @Santiago3102<br>
 - 👀 I’m interested in fullstack development, artificial intelligence, and innovative technology solutions.<br>
